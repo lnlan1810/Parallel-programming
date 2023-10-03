@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Task7_12.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Task7_12.cpp
+C:\Users\SURFACE\source\repos\Task7_12\Task7_12\Task7_12.cpp(9,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\SURFACE\source\repos\Task7_12\Task7_12\Task7_12.cpp(10,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  0 of 150 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Task7_12.vcxproj -> C:\Users\SURFACE\source\repos\Task7_12\x64\Release\Task7_12_1.exe
